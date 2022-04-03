@@ -1,2 +1,2 @@
 # java-SB
-Java 11 app with Spring Boot and Thymeleaf
+Java 8 app with Spring Boot and Thymeleaf
