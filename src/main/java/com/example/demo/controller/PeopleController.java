@@ -12,7 +12,7 @@ public class PeopleController {
     @GetMapping("/")
     public String hello(Model model) {
         model.addAttribute("hello", "Hello World!");
-        return "hello-world";
+        return "renderingEngine";
     }
 
     @GetMapping("/hello")
