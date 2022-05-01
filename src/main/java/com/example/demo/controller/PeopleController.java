@@ -20,4 +20,5 @@ public class PeopleController {
         model.addAttribute("name", name);
         return "hello-name";
     }
+
 }
